@@ -16,3 +16,6 @@ git reset --hard
 
 ssh key added for testje naar IJsbrand
 en nog een keer voor het fetch command ipv merge
+
+# werkt het?
+Lijkt er wel op
