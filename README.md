@@ -19,3 +19,5 @@ en nog een keer voor het fetch command ipv merge
 
 # werkt het?
 Lijkt er wel op
+
+Branche testing-pulls to server with deploy.php + config-tst.php
